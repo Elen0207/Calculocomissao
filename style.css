@@ -1,0 +1,46 @@
+        body{
+    background: #04BCB4;
+    }
+        
+        header{
+    background:rgba(0, 105, 217, 0.925);
+    color: white;
+    padding: 15px;
+    width: 400px; 
+    height: 90px;
+    margin: auto;
+    border-radius:10px;
+    box-shadow:1px 1px 10px black;
+    font: normal 20pt Verdana;
+    text-align: center;
+    top: 30px;
+    }
+        
+        section{
+    background: white;
+    padding: 15px;
+    width: 500px; 
+    height: 50%;
+    margin: auto;
+    border-radius:10px;
+    box-shadow:3px 3px 10px black;
+    text-align: center;
+    }
+        
+        input{
+    font: normal 15pt Calibri;
+    border-radius:5px;
+    }
+        
+        footer{
+    font: normal 10pt calibri;
+    color: white;
+    text-align: center;
+    font-style: italic ;
+    }
+    
+       .logo{
+    position: fixed;
+    margin-bottom: 0pt;
+    margin-right: 0pt;
+    }
